@@ -40,7 +40,7 @@ No santuário do Coração do Dragão, um guardião espectral bloqueia seu camin
 
 (3) Procurar uma forma alternativa de escapar com o artefato.
 
-###🔧 Tecnologias Utilizadas
+### 🔧 Tecnologias Utilizadas
 
 HTML, CSS e JavaScript
 
