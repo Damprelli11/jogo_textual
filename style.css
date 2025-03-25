@@ -1,53 +1,60 @@
+/* Estilo geral do corpo da página */
 body {
-    font-family: 'Celtic', serif;
-    background-image: url('assets/img/background.jpg');
-    color: #d4af37;
-    text-align: center;
-    margin: 0;
-    padding: 20px;
+  font-family: "Celtic", serif;
+  background-image: url("assets/img/background.jpg");
+  color: #ffdd55;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
 }
 
+/* Estilo do contêiner principal do jogo */
 #game-container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #8b4513;
-    border: 5px solid #4b2e0e;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(119, 60, 19);
+  border: 5px solid #4b2e0e;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
 }
 
+/* Estilo do título principal */
 h1 {
-    font-family: 'Celtic', serif;
-    font-size: 2.5em;
-    color: #ffcc00;
-    text-shadow: 2px 2px 4px #4b2e0e;
+  font-family: "Celtic", serif;
+  font-size: 2.5em;
+  color: #ffdd55;
+  text-shadow: 2px 2px 4px #4b2e0e;
 }
 
+/* Estilo dos parágrafos */
 p {
-    font-size: 1.2em;
-    line-height: 1.6;
+  font-size: 1.2em;
+  line-height: 1.6;
 }
 
+/* Estilo dos botões */
 button {
-    margin: 10px;
-    padding: 10px 20px;
-    background-color: #5c3a2e;
-    color: #fff;
-    border: 3px solid #2e170b;
-    border-radius: 10px;
-    cursor: pointer;
-    font-family: 'Celtic', serif;
-    font-size: 1.1em;
-    text-shadow: 1px 1px 2px #000; 
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #5c3a2e;
+  color: #fff;
+  border: 3px solid #2e170b;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: "Celtic", serif;
+  font-size: 1.1em;
+  text-shadow: 1px 1px 2px #000;
 }
 
+/* Estilo do botão ao passar o mouse */
 button:hover {
-    background-color: #875f46;
-    color: #ffcc00;
+  background-color: #875f46;
+  color: #ffdd55;
 }
 
+/* Estilo do elemento que exibe as vidas */
 #lives {
-    font-weight: bold;
-    color: #ff0000;
+  font-weight: bold;
+  color: #ff0000;
 }
