@@ -1,4 +1,4 @@
-## 🏰 A Encruzilhada dos Destinos - Um Jogo de Escolhas Medievais
+## 🏰 A Encruzilhada dos Destinos
 
 ### 📖 Sobre o Jogo
 
@@ -43,3 +43,6 @@ No santuário do Coração do Dragão, um guardião espectral bloqueia seu camin
 ###🔧 Tecnologias Utilizadas
 
 HTML, CSS e JavaScript
+
+### 🏆 Créditos e Divisão de Tarefas
+
