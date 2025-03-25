@@ -48,7 +48,7 @@ HTML, CSS e JavaScript
 
 (https://damprelli11.github.io/jogo_textual/)
 
-### 🖼️ Imagens do Jogo
+### 🖼️ Imagem do Jogo
 
 <img src = assets/img/print1.png>
 
