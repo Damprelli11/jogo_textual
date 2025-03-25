@@ -50,7 +50,7 @@ HTML, CSS e JavaScript
 
 ### 🖼️ Imagens do Jogo
 
-<img src = assets/img/print1.png>
+
 
 ### 🏆 Créditos e Divisão de Tarefas
 
