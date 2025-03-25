@@ -1,8 +1,8 @@
-## 🏰 A Encruzilhada dos Destinos
+## 🏰 Sombras do Castelo Esquecido
 
 ### 📖 Sobre o Jogo
 
-"A Encruzilhada dos Destinos" é um jogo interativo baseado em escolhas ambientado em um mundo medieval. O jogador assume o papel de um aventureiro em busca do lendário artefato conhecido como O Coração do Dragão. Para alcançar seu objetivo, ele precisará tomar decisões estratégicas, enfrentar desafios e testar sua sorte.
+"Sombras do Castelo Esquecido" é um jogo interativo baseado em escolhas ambientado em um mundo medieval. O jogador assume o papel de um aventureiro em busca do lendário artefato conhecido como O Coração do Dragão. Para alcançar seu objetivo, ele precisará tomar decisões estratégicas, enfrentar desafios e testar sua sorte.
 
 ### 🎮 Como Jogar
 
@@ -50,7 +50,7 @@ HTML, CSS e JavaScript
 
 ### 🖼️ Imagens do Jogo
 
-
+<img src = assets/img/print1.png>
 
 ### 🏆 Créditos e Divisão de Tarefas
 
