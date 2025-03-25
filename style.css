@@ -13,8 +13,11 @@ body {
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;
-  background-color: rgb(119, 60, 19);
-  border: 5px solid #4b2e0e;
+  background-image: url("assets/img/moldura.jpg");
+  background-size: cover; /* Alterado para garantir preenchimento completo */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat;
+  border: none; /* Remove a borda existente */
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
 }
@@ -23,28 +26,30 @@ body {
 h1 {
   font-family: "Celtic", serif;
   font-size: 2.5em;
-  color: #ffdd55;
-  text-shadow: 2px 2px 4px #4b2e0e;
+  color: #ffffff; /* Ajuste para contraste */
+  text-shadow: 2px 2px 4px #000000; /* Sombra para melhor visibilidade */
 }
 
 /* Estilo dos parágrafos */
 p {
   font-size: 1.2em;
   line-height: 1.6;
+  color: #ffffff; /* Ajuste para contraste */
+  text-shadow: 1px 1px 2px #000000; /* Sombra para melhor visibilidade */
 }
 
 /* Estilo dos botões */
 button {
   margin: 10px;
   padding: 10px 20px;
-  background-color: #5c3a2e;
-  color: #fff;
-  border: 3px solid #2e170b;
+  background-color: #875f46; /* Ajuste para harmonizar com o fundo */
+  color: #ffffff; /* Ajuste para contraste */
+  border: 3px solid #4b2e0e;
   border-radius: 10px;
   cursor: pointer;
   font-family: "Celtic", serif;
   font-size: 1.1em;
-  text-shadow: 1px 1px 2px #000;
+  text-shadow: 1px 1px 2px #000000; /* Sombra para melhor visibilidade */
 }
 
 /* Estilo do botão ao passar o mouse */
@@ -57,4 +62,10 @@ button:hover {
 #lives {
   font-weight: bold;
   color: #ff0000;
+}
+
+/* Transição suave para o texto da narrativa */
+#narrative {
+  opacity: 1; /* Define opacidade inicial */
+  transition: opacity 0.5s ease-in-out;
 }
