@@ -1,16 +1,16 @@
-🏰 A Encruzilhada dos Destinos - Um Jogo de Escolhas Medievais
+## 🏰 A Encruzilhada dos Destinos - Um Jogo de Escolhas Medievais
 
-📖 Sobre o Jogo
+### 📖 Sobre o Jogo
 
 "A Encruzilhada dos Destinos" é um jogo interativo baseado em escolhas ambientado em um mundo medieval. O jogador assume o papel de um aventureiro em busca do lendário artefato conhecido como O Coração do Dragão. Para alcançar seu objetivo, ele precisará tomar decisões estratégicas, enfrentar desafios e testar sua sorte.
 
-🎮 Como Jogar
+### 🎮 Como Jogar
 
 O jogo segue um formato de história interativa, onde o jogador toma decisões que afetam o rumo da aventura. Cada fase apresenta três opções, cada uma com consequências diferentes. Escolha com sabedoria, pois suas decisões podem levar à vitória ou ao fracasso.
 
-🗺️ Fases do Jogo
+### 🗺️ Fases do Jogo
 
-Fase 1: A Encruzilhada dos Destinos
+#### Fase 1: A Encruzilhada dos Destinos
 
 Você chega a uma encruzilhada e precisa escolher um caminho:
 
@@ -20,7 +20,7 @@ Você chega a uma encruzilhada e precisa escolher um caminho:
 
 (3) Vila misteriosa: descubra uma nova pista ou recurso.
 
-Fase 2: O Castelo Esquecido
+#### Fase 2: O Castelo Esquecido
 
 Ao entrar em um castelo abandonado, você se depara com escolhas difíceis:
 
@@ -30,7 +30,7 @@ Ao entrar em um castelo abandonado, você se depara com escolhas difíceis:
 
 (3) Forçar a porta trancada (risco de perder vida, mas pode funcionar).
 
-Fase 3: A Batalha Final
+#### Fase 3: A Batalha Final
 
 No santuário do Coração do Dragão, um guardião espectral bloqueia seu caminho:
 
@@ -40,8 +40,6 @@ No santuário do Coração do Dragão, um guardião espectral bloqueia seu camin
 
 (3) Procurar uma forma alternativa de escapar com o artefato.
 
-🔧 Tecnologias Utilizadas
+###🔧 Tecnologias Utilizadas
 
 HTML, CSS e JavaScript
-
-Lógica de escolhas baseadas em eventos
