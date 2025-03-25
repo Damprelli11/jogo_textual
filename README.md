@@ -54,3 +54,8 @@ HTML, CSS e JavaScript
 
 ### 🏆 Créditos e Divisão de Tarefas
 
+Saulo:
+      Criação do HTML/CSS, história do jogo e escolha da imagem.
+
+Renan:
+      Criação dos arquivos e das funções js e da modularização entre eles.
